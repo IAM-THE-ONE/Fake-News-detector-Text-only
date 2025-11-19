@@ -9,16 +9,25 @@
 3) install dependencies , type this in terminal  "npm install lucide-react"
 4) replace 
 package.json - Dependencies and scripts
+
 src/App.js - Main App component
+
 src/App.css - App styles
+
 src/index.js - React entry point
+
 src/index.css - Global styles with Inter font
+
 public/index.html - HTML template with Tailwind CDN
+
 public/manifest.json - PWA manifest
+
 public/robots.txt - SEO robots file
-README.md - Complete documentation
+
 .gitignore - Git ignore rules
+
 with files given above
+
 5) Add the file FakeNewsDetector.jsx in src folder
 
 **Second phase (Backend Server)**
