@@ -34,7 +34,7 @@ with files given above
 
 1) Make a folder in myapp called server
 2) add server.js file
-3) first change directory to server put this command in terminal "cd server"
+3) first change directory to server put this command in new terminal "cd server"
 4) next this command npm init -y
 5) and finally npm install express node-fetch cors
 
