@@ -6,8 +6,7 @@
 
 1) Go to terminal enter this command "npx create-react-app myapp"
 2) Then type this "cd myapp" in terminal to change the directory
-3) install dependencies , type this in terminal  "npm install lucide-react"
-4) replace all the code in these files with code provided above
+3) replace all the code in these files with code provided above
 
 package.json - Dependencies and scripts
 
